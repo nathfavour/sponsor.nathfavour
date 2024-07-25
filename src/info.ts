@@ -3,7 +3,7 @@ export const information = {
     username: "nathfavour",
 
     // Highlight some of your best works by providing your repository NAMES.
-    featuredRepos: ["bionicpython", "stream-whisper", "erdge", "h", "automations", "universal-airdrop"],
+    featuredRepos: ["bionicpython", "stream-whisper", "erdge", " bitwarden-totp-exporter ", "automations", "universal-airdrop"],
 
     // Describe yourself, and why you should be sponsored.
     description: `
