@@ -1,13 +1,13 @@
 export const information = {
     // What's your GitHub username?
-    username: "cnrad",
+    username: "nathfavour",
 
     // Highlight some of your best works by providing your repository NAMES.
-    featuredRepos: ["lanyard-profile-readme", "d", "iridi", "h", "sponsor", "hbd-today"],
+    featuredRepos: ["bionicpython", "stream-whisper", "iridi", "h", "automations", "universal-airdrop"],
 
     // Describe yourself, and why you should be sponsored.
     description: `
-👋 Hey there, I'm Conrad. I'm a high-school student currently pursuing full-stack web development in my free time.
+👋 Hey there, I'm Nathfavour. I'm a high-school student currently pursuing full-stack web development in my free time.
     
 I enjoy leveraging technologies such as TypeScript, Next.js, Postgres, Prisma, and many others to create scalable and performant web applications, and I'm constantly looking for projects to develop and things to learn in order to expand my knowledge and skillset further.
     
